@@ -1,0 +1,62 @@
+{
+  "backend": {
+    "auc": 1.0,
+    "precision_at_k": 1.0,
+    "k": 3,
+    "mean_strong": 69.6,
+    "mean_medium": 41.6,
+    "mean_weak": 27.0,
+    "mean_other_roles": 12.5
+  },
+  "frontend": {
+    "auc": 1.0,
+    "precision_at_k": 1.0,
+    "k": 3,
+    "mean_strong": 76.2,
+    "mean_medium": 46.7,
+    "mean_weak": 15.9,
+    "mean_other_roles": 4.7
+  },
+  "datascience": {
+    "auc": 1.0,
+    "precision_at_k": 1.0,
+    "k": 3,
+    "mean_strong": 73.5,
+    "mean_medium": 45.7,
+    "mean_weak": 18.6,
+    "mean_other_roles": 13.7
+  },
+  "dataanalyst": {
+    "auc": 1.0,
+    "precision_at_k": 1.0,
+    "k": 3,
+    "mean_strong": 80.5,
+    "mean_medium": 55.5,
+    "mean_weak": 28.0,
+    "mean_other_roles": 14.8
+  },
+  "devops": {
+    "auc": 1.0,
+    "precision_at_k": 1.0,
+    "k": 3,
+    "mean_strong": 63.5,
+    "mean_medium": 44.2,
+    "mean_weak": 20.3,
+    "mean_other_roles": 5.6
+  },
+  "marketing": {
+    "auc": 1.0,
+    "precision_at_k": 1.0,
+    "k": 3,
+    "mean_strong": 79.1,
+    "mean_medium": 49.7,
+    "mean_weak": 17.3,
+    "mean_other_roles": 4.5
+  },
+  "_summary": {
+    "mean_auc": 1.0,
+    "mean_precision_at_k": 1.0,
+    "n_resumes": 24,
+    "n_jobs": 6
+  }
+}

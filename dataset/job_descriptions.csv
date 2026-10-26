@@ -1,0 +1,74 @@
+role,title,department,description
+backend,Backend Developer,Engineering,"We are hiring a Backend Developer to build and maintain services for our platform.
+
+Requirements:
+- Strong Python and Flask experience building REST API services
+- SQL and PostgreSQL database design
+- Docker for packaging and deployment
+- Git and unit testing practices
+
+Preferred:
+- Redis caching
+- AWS
+- Microservices and CI/CD pipelines"
+frontend,Frontend Developer,Engineering,"Join us as a Frontend Developer creating fast, accessible web interfaces.
+
+Requirements:
+- JavaScript, HTML and CSS
+- React with hooks and Redux
+- Responsive design and accessibility
+- Git and unit testing with Jest
+
+Preferred:
+- TypeScript
+- Tailwind CSS
+- GraphQL"
+datascience,Data Scientist,Analytics,"We need a Data Scientist to develop predictive models.
+
+Requirements:
+- Python, pandas and NumPy
+- Machine learning with scikit-learn
+- Statistics and feature engineering
+- SQL and data visualization
+
+Preferred:
+- Deep learning with TensorFlow or PyTorch
+- NLP
+- A/B testing"
+dataanalyst,Data Analyst,Analytics,"Data Analyst needed to turn business data into insight.
+
+Requirements:
+- SQL and Excel
+- Tableau or Power BI dashboards
+- Data analysis and statistics
+- Communication with stakeholders
+
+Preferred:
+- Python
+- ETL pipelines
+- Google Analytics"
+devops,DevOps Engineer,Platform,"DevOps Engineer to automate our delivery and infrastructure.
+
+Requirements:
+- Docker and Kubernetes
+- CI/CD with Jenkins or GitHub Actions
+- Terraform and infrastructure as code
+- Linux and Bash scripting
+- AWS
+
+Preferred:
+- Prometheus and Grafana monitoring
+- Ansible
+- Python"
+marketing,Digital Marketing Specialist,Marketing,"Digital Marketing Specialist to grow our online presence.
+
+Requirements:
+- SEO and Google Analytics
+- Content marketing and copywriting
+- Social media marketing
+- Campaign management
+
+Preferred:
+- Email marketing
+- Google Ads
+- CRM tools such as HubSpot"

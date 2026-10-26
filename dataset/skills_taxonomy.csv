@@ -1,0 +1,103 @@
+skill,category,synonyms,related
+python,Programming,py|python3,pandas|numpy|django|flask
+java,Programming,,spring boot|jvm|maven
+javascript,Programming,js|ecmascript,node.js|react|typescript
+typescript,Programming,ts,angular|javascript
+c++,Programming,cpp,stl
+c#,Programming,csharp|c sharp,.net|asp.net
+golang,Programming,go language,goroutines
+php,Programming,,laravel
+kotlin,Programming,,android
+bash,Programming,shell scripting|shell,linux
+r programming,Programming,r language,ggplot
+scala,Programming,,spark
+flask,Backend,,python web framework|werkzeug
+django,Backend,,python web framework
+fastapi,Backend,,python web framework|pydantic
+spring boot,Backend,springboot,java|microservices
+node.js,Backend,nodejs|node,express
+express,Backend,express.js,node.js
+rest api,Backend,restful|rest apis|restful api|restful services|rest,spring boot|flask|fastapi|express|django rest framework
+graphql,Backend,,apollo
+microservices,Backend,microservice|micro-services,service-oriented architecture|api gateway
+html,Frontend,html5,
+css,Frontend,css3,flexbox|sass
+react,Frontend,react.js|reactjs,jsx|hooks|next.js
+angular,Frontend,angularjs,rxjs
+vue,Frontend,vue.js|vuejs,vuex
+redux,Frontend,,state management
+tailwind css,Frontend,tailwind,utility-first css
+bootstrap,Frontend,,responsive design
+responsive design,Frontend,responsive layouts|mobile-first,media queries
+accessibility,Frontend,wcag|a11y,aria
+sql,Data,structured query language,joins|stored procedures
+mysql,Data,,sql
+postgresql,Data,postgres,sql
+mongodb,Data,mongo,nosql
+sqlite,Data,,sql
+redis,Data,,caching
+nosql,Data,,mongodb|dynamodb
+pandas,Data,,dataframes|python
+numpy,Data,,arrays|python
+scikit-learn,Data,sklearn|scikit learn,classification|regression
+tensorflow,Data,,neural networks|keras
+pytorch,Data,,neural networks
+keras,Data,,neural networks
+machine learning,Data,ml,model training|classification|regression|scikit-learn
+deep learning,Data,,neural networks|cnn|lstm
+nlp,Data,natural language processing,text classification|tokenization
+computer vision,Data,,image classification|opencv
+data analysis,Data,data analytics|analyzing data,exploratory analysis|eda
+data visualization,Data,data visualisation|dashboards,matplotlib|tableau|power bi
+tableau,Data,,dashboards
+power bi,Data,powerbi,dashboards|dax
+excel,Data,ms excel|microsoft excel,pivot tables|vlookup
+statistics,Data,statistical analysis,hypothesis testing|regression
+etl,Data,data pipelines|data pipeline,data warehouse
+apache spark,Data,pyspark|spark,big data
+airflow,Data,apache airflow,workflow orchestration
+a/b testing,Data,ab testing|a/b tests|split testing,experiment design
+feature engineering,Data,,model features
+docker,DevOps,containerization|containerisation|containers,images|dockerfile
+kubernetes,DevOps,k8s,container orchestration|helm
+aws,DevOps,amazon web services,ec2|s3|lambda
+azure,DevOps,microsoft azure,
+gcp,DevOps,google cloud|google cloud platform,
+terraform,DevOps,,infrastructure as code
+ansible,DevOps,,configuration management
+jenkins,DevOps,,pipelines
+ci/cd,DevOps,cicd|continuous integration|continuous delivery|ci cd,github actions|jenkins|pipelines
+git,DevOps,github|gitlab,version control
+github actions,DevOps,,ci/cd
+linux,DevOps,ubuntu|unix,bash
+prometheus,DevOps,,monitoring
+grafana,DevOps,,monitoring|dashboards
+nginx,DevOps,,reverse proxy
+infrastructure as code,DevOps,iac,terraform|cloudformation
+monitoring,DevOps,observability,prometheus|grafana|alerting
+agile,Practices,agile methodology,scrum|sprints
+scrum,Practices,,sprints
+jira,Practices,,issue tracking
+unit testing,Practices,pytest|junit|jest|unit tests,test-driven development
+test automation,Practices,selenium|automated testing,end-to-end tests
+object-oriented programming,Practices,oop|object oriented programming,classes|inheritance
+data structures,Practices,,algorithms
+algorithms,Practices,,complexity
+system design,Practices,,scalability
+code review,Practices,code reviews|peer review,pull requests
+seo,Marketing,search engine optimization|search engine optimisation,keyword research
+sem,Marketing,search engine marketing|paid search,google ads
+google analytics,Marketing,ga4,web analytics
+google ads,Marketing,adwords,ppc|paid search
+content marketing,Marketing,content strategy,blog|editorial calendar
+social media marketing,Marketing,social media,instagram|linkedin campaigns
+email marketing,Marketing,email campaigns,mailchimp|newsletters
+copywriting,Marketing,copy writing,ad copy
+crm,Marketing,salesforce|hubspot,customer relationship management
+market research,Marketing,,competitor analysis|surveys
+campaign management,Marketing,campaign planning,roi|budget
+communication,Soft skills,communication skills,presentations
+leadership,Soft skills,team leadership,mentoring
+problem solving,Soft skills,problem-solving,troubleshooting
+project management,Soft skills,,planning|timelines
+stakeholder management,Soft skills,,cross-functional
